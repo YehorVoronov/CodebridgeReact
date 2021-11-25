@@ -1,0 +1,45 @@
+.allObject{
+float: left;
+    height: 450px;
+    width: 500px;
+    margin-top: 2%;
+    margin-left: 3%;
+    background-color: white;
+    box-shadow: 0 0 3px;
+
+}
+.allObject img{
+    width: 100%;
+    height: 200px;
+
+}
+.footer{
+    margin-left: 2%;
+    font-weight: bolder;
+    float: left;
+    padding-top:20%;
+}
+.data{
+    padding-bottom: 2%;
+
+    opacity: 50%;
+}
+.title{
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-bottom: 2%;
+    font-size: large;
+}
+@media (max-width: 600px)  {
+    .allObject{
+        float: left;
+        height: auto;
+        width: auto;
+        margin-top: 2%;
+        margin-left: 1%;
+        margin-right: 2%;
+        background-color: white;
+        box-shadow: 0 0 3px;
+
+    }
+}

@@ -1,0 +1,26 @@
+.allObjects{
+    margin-left: 5%;
+}
+.val{
+    text-decoration: gold;
+}
+.result{
+    font-size: x-large;
+    margin-left: 5%;
+    font-weight: bold;
+    padding-top: 5%;
+}
+hr{
+    width: auto;
+
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.input input{
+    margin-top: 20px;
+    width: 40%;
+    height: 30px;
+
+    margin-left: 5%;
+}
